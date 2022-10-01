@@ -2,9 +2,10 @@
 
 # INTRO 🙌
 
-# Description
+# Description 🤞
+What is AutoML
 
-# Note
+# Note 📌
 [Hackathon Post](https://www.cs.cmu.edu/~automl-decathlon-22/)
 
 Collaborators: *Eric Choi*, *Linbo Tang*
